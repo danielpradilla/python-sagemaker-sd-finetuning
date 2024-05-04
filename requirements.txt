@@ -1,0 +1,3 @@
+sagemaker
+matplotlib
+python-dotenv
